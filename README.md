@@ -32,7 +32,8 @@ Whether you're using ChatGPT, Claude, DeepSeek, Kimi, GLM, Qwen, or others, ARES
 - 🕵️ **Privacy Focused:** All data is processed locally on your device. No data is sent to external servers.
 
 ## Installation Instructions
-
+###YOUTUBE VIDEO LINK FOR INSTALLATION 
+https://youtu.be/3hJUzPrKLmE
 Currently, the extension can be installed by loading it as an unpacked extension in Chrome, Edge, or Brave.
 
 1. Download the `ares-ai-exporter.zip` file (or generate it via the app).
